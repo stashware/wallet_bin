@@ -1,1 +1,1 @@
-# wallet_bin
+# Executables of Stashware's Wallet for different OS
